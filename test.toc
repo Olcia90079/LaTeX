@@ -1,0 +1,4 @@
+\babel@toc {english}{}
+\babel@toc {polish}{}
+\babel@toc {english}{}
+\contentsline {section}{\numberline {1}Wstęp}{2}{}%
