@@ -1,6 +1,9 @@
 \documentclass{article}
-\usepackage[polish, english]{babel}
+\usepackage[T1]{fontenc}
+\usepackage[polish]{babel}
+\usepackage[utf8]{inputenc}
 \usepackage{graphicx}
+\usepackage[labelformat=empty]{caption}
 \graphicspath{ {images/} }
 \title{Projekt w \LaTeX{}}
 \author{\large Aleksandra Panek}
@@ -17,7 +20,15 @@
 
 \pagebreak
 
-\section{Wstęp}
+\section{Ogólne informacje}
 To jest wstęp.
 
+\section{Prezydent}
+
+\begin{figure}[h!]
+\begin{center}
+ \includegraphics{andrzej}
+\end{center}
+  \caption{Zdjęcie obecnego prezydenta Polski - Andrzeja Dudy}
+\end{figure}
 \end{document}
