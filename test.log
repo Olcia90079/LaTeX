@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.12) (preloaded format=pdflatex 2021.1.17)  20 JAN 2021 17:52
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.12) (preloaded format=pdflatex 2021.1.17)  20 JAN 2021 18:04
 entering extended mode
 **./test.tex
 (test.tex
@@ -153,33 +153,37 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 \tf@toc=\write3
 \openout3 = `test.toc'.
 
- [1
+
+No file test.lot.
+\tf@lot=\write4
+\openout4 = `test.lot'.
+
+[1
 
 {C:/Users/media/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
 <andrzej.jpg, id=10, 289.08pt x 192.72pt>
 File: andrzej.jpg Graphic file (type jpg)
 <use andrzej.jpg>
-Package pdftex.def Info: andrzej.jpg  used on input line 30.
+Package pdftex.def Info: andrzej.jpg  used on input line 31.
 (pdftex.def)             Requested size: 289.07928pt x 192.71951pt.
-
-[2 <./andrzej.jpg>] (test.aux) ) 
+ [2 <./andrzej.jpg>] (test.aux) ) 
 Here is how much of TeX's memory you used:
- 3523 strings out of 479618
- 55253 string characters out of 2874902
- 345933 words of memory out of 3000000
- 20696 multiletter control sequences out of 15000+200000
+ 3526 strings out of 479618
+ 55271 string characters out of 2874902
+ 346933 words of memory out of 3000000
+ 20698 multiletter control sequences out of 15000+200000
  411694 words of font info for 45 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  68i,7n,74p,246b,281s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\media\AppData\Local\MiKTeX\fonts/pk/
-ljfour/jknappen/ec/dpi600\ecrm1000.pk> <C:\Users\media\AppData\Local\MiKTeX\fon
-ts/pk/ljfour/jknappen/ec/dpi600\ecbx1000.pk> <C:\Users\media\AppData\Local\MiKT
-eX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\media\AppData\Loca
-l\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\media\AppDat
-a\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1728.pk>
-Output written on test.pdf (2 pages, 234176 bytes).
+ <C:\Users\media\AppData\Local\MiKTeX\fonts/pk
+/ljfour/jknappen/ec/dpi600\ecrm1000.pk> <C:\Users\media\AppData\Local\MiKTeX\fo
+nts/pk/ljfour/jknappen/ec/dpi600\ecbx1000.pk> <C:\Users\media\AppData\Local\MiK
+TeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\media\AppData\Loc
+al\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\media\AppDa
+ta\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1728.pk>
+Output written on test.pdf (2 pages, 234555 bytes).
 PDF statistics:
- 136 PDF objects out of 1000 (max. 8388607)
+ 137 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
