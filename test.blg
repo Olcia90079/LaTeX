@@ -9,45 +9,45 @@ Warning--to sort, need author or key in wiki
 Warning--to sort, need author or key in zrodlo
 Warning--empty year in wiki
 Warning--empty year in zrodlo
-You've used 3 entries,
+You've used 5 entries,
             2773 wiz_defined-function locations,
-            600 strings with 4721 characters,
-and the built_in function-call counts, 772 in all, are:
-= -- 63
-> -- 10
-< -- 1
-+ -- 6
-- -- 3
-* -- 47
-:= -- 84
-add.period$ -- 4
-call.type$ -- 3
-change.case$ -- 8
-chr.to.int$ -- 3
-cite$ -- 12
-duplicate$ -- 45
-empty$ -- 103
-format.name$ -- 4
-if$ -- 174
+            608 strings with 4803 characters,
+and the built_in function-call counts, 1338 in all, are:
+= -- 109
+> -- 30
+< -- 3
++ -- 14
+- -- 9
+* -- 73
+:= -- 168
+add.period$ -- 8
+call.type$ -- 5
+change.case$ -- 16
+chr.to.int$ -- 5
+cite$ -- 16
+duplicate$ -- 75
+empty$ -- 167
+format.name$ -- 12
+if$ -- 296
 int.to.chr$ -- 1
 int.to.str$ -- 1
 missing$ -- 0
-newline$ -- 18
-num.names$ -- 4
-pop$ -- 39
+newline$ -- 26
+num.names$ -- 12
+pop$ -- 65
 preamble$ -- 1
-purify$ -- 7
+purify$ -- 13
 quote$ -- 0
-skip$ -- 49
+skip$ -- 77
 stack$ -- 0
-substring$ -- 8
-swap$ -- 3
+substring$ -- 12
+swap$ -- 5
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 33
+type$ -- 55
 warning$ -- 4
-while$ -- 3
+while$ -- 9
 width$ -- 0
-write$ -- 31
+write$ -- 51
 (There were 4 warnings)

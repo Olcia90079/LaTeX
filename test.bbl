@@ -1,4 +1,4 @@
-\begin{thebibliography}{3}
+\begin{thebibliography}{5}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -15,5 +15,13 @@ URL
 \bibitem[Dmowski(1904)]{roman}
 R.~Dmowski.
 \newblock Myśli nowoczesnego polaka, 1904.
+
+\bibitem[Kamiński(1957)]{kamien}
+A.~Kamiński.
+\newblock Kamienie na szaniec, 1957.
+
+\bibitem[Mickiewicz(1834)]{pan}
+A.~Mickiewicz.
+\newblock Pan tadeusz, 1834.
 
 \end{thebibliography}
