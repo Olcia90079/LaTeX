@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.12) (preloaded format=pdflatex 2021.1.17)  20 JAN 2021 18:04
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.12) (preloaded format=pdflatex 2021.1.17)  21 JAN 2021 11:43
 entering extended mode
 **./test.tex
 (test.tex
@@ -99,6 +99,27 @@ Package caption Info: Standard document class detected.
 \c@caption@flags=\count187
 \c@continuedfloat=\count188
 )
+("C:\Program Files\MiKTeX\tex/latex/contour\contour.sty"
+Package: contour 2004/11/18 v2.14 Print contoured text (HH, MH)
+
+("C:\Program Files\MiKTeX\tex/latex/graphics\color.sty"
+Package: color 2020/02/24 v1.2b Standard LaTeX Color (DPC)
+
+("C:\Program Files\MiKTeX\tex/latex/graphics-cfg\color.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
+)
+\con@length=\skip49
+
+Loading configuration file `contour.cfg'.
+("C:\Program Files\MiKTeX\tex/latex/contour\contour.cfg"
+File: contour.cfg 2004/11/18 v2.14 Print contoured text (HH, MH)
+)
+contour: Using driver file `pdftex.cnt'.
+("C:\Program Files\MiKTeX\tex/latex/contour\pdftex.cnt"
+File: pdftex.cnt 2004/11/18 v2.14 Print contoured text (HH, MH)
+))
 ("C:\Program Files\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def"
 File: l3backend-pdftex.def 2021-01-09 L3 backend support: PDF output (pdfTeX)
 \l__kernel_color_stack_int=\count189
@@ -144,46 +165,48 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <17.28> on input line 17.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <12> on input line 17.
+
+contour: Using 16 copies for `\color {white}{POL}\color {red}{SKA}' on input li
+ne 17.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 17.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 17.
-
 (test.toc)
 \tf@toc=\write3
 \openout3 = `test.toc'.
 
-
-No file test.lot.
+ (test.lot)
 \tf@lot=\write4
 \openout4 = `test.lot'.
 
-[1
+ [1
 
 {C:/Users/media/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
-<andrzej.jpg, id=10, 289.08pt x 192.72pt>
+<andrzej.jpg, id=11, 289.08pt x 192.72pt>
 File: andrzej.jpg Graphic file (type jpg)
 <use andrzej.jpg>
 Package pdftex.def Info: andrzej.jpg  used on input line 31.
 (pdftex.def)             Requested size: 289.07928pt x 192.71951pt.
  [2 <./andrzej.jpg>] (test.aux) ) 
 Here is how much of TeX's memory you used:
- 3526 strings out of 479618
- 55271 string characters out of 2874902
- 346933 words of memory out of 3000000
- 20698 multiletter control sequences out of 15000+200000
- 411694 words of font info for 45 fonts, out of 3000000 for 9000
+ 3645 strings out of 479618
+ 57134 string characters out of 2874902
+ 347933 words of memory out of 3000000
+ 20801 multiletter control sequences out of 15000+200000
+ 412466 words of font info for 46 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 68i,7n,74p,246b,281s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 68i,7n,74p,246b,291s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\media\AppData\Local\MiKTeX\fonts/pk
 /ljfour/jknappen/ec/dpi600\ecrm1000.pk> <C:\Users\media\AppData\Local\MiKTeX\fo
 nts/pk/ljfour/jknappen/ec/dpi600\ecbx1000.pk> <C:\Users\media\AppData\Local\MiK
 TeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\media\AppData\Loc
-al\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\media\AppDa
-ta\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1728.pk>
-Output written on test.pdf (2 pages, 234555 bytes).
+al\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm2488.pk> <C:\Users\media\AppDa
+ta\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\media
+\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1728.pk>
+Output written on test.pdf (2 pages, 238558 bytes).
 PDF statistics:
- 137 PDF objects out of 1000 (max. 8388607)
+ 147 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
