@@ -1,11 +1,11 @@
 \babel@toc {polish}{}
 \babel@toc {polish}{}
 \babel@toc {polish}{}
-\contentsline {section}{\numberline {1}Podstawowe informacje}{2}{}%
-\contentsline {subsection}{\numberline {1.1}Położenie}{2}{}%
+\contentsline {section}{\numberline {1}\textbf {\textit {Podstawowe informacje}}}{2}{}%
+\contentsline {subsection}{\numberline {1.1}\underline {Położenie}}{2}{}%
 \contentsline {subsection}{\numberline {1.2}Ludność}{2}{}%
 \contentsline {subsubsection}{\numberline {1.2.1}Informacje}{2}{}%
-\contentsline {subsubsection}{\numberline {1.2.2}Cechy charakterystyczne}{2}{}%
-\contentsline {section}{\numberline {2}Rząd}{2}{}%
-\contentsline {subsection}{\numberline {2.1}Partie polityczne}{2}{}%
-\contentsline {subsection}{\numberline {2.2}Prezydenci}{2}{}%
+\contentsline {subsubsection}{\numberline {1.2.2}Cytaty o Polakach}{2}{}%
+\contentsline {section}{\numberline {2}\textbf {\textit {Rząd}}}{3}{}%
+\contentsline {subsection}{\numberline {2.1}Partie polityczne}{3}{}%
+\contentsline {subsection}{\numberline {2.2}Prezydenci}{3}{}%

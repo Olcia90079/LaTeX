@@ -7,10 +7,16 @@
 \graphicspath{ {images/} }
 \usepackage{contour}
 
+\usepackage[margin=2cm]{geometry}
+
 \usepackage[square,numbers]{natbib}
 \bibliographystyle{abbrvnat}
 
+\addto\captionspolish{\renewcommand{\refname}{\normalsize{Bibliografia}}}
+\renewcommand{\bibname}{\normalsize{Bibliografia}}
+
 \title{Projekt w \LaTeX{}\\
+\hfill\break
 {\Huge{\contour{black}{\color{white}{POL}\color{red}{SKA}}}}}
 \author{\large Aleksandra Panek}
 
@@ -20,35 +26,73 @@
 
 \maketitle
 
-\tableofcontents
-\listoftables
+\large{\tableofcontents}
+\large{\listoftables}
 
 \pagebreak
+\raggedright
+\section{\textbf{\textit{Podstawowe informacje}}}
 
-\section{Podstawowe informacje}
-
-\subsection{Położenie}
-\textbf{Polska, Rzeczpospolita Polska} – państwo unitarne w Europie Środkowej, położone między Morzem Bałtyckim na północy a Sudetami i Karpatami na południu, w przeważającej części w dorzeczu Wisły i Odry. Od północy Polska graniczy z Rosją (z jej obwodem kaliningradzkim) i Litwą, od wschodu z Białorusią i Ukrainą, od południa ze Słowacją i Czechami, od zachodu z Niemcami. Większość północnej granicy Polski wyznacza wybrzeże Morza Bałtyckiego.\cite{wiki}
+\subsection{\underline{Położenie}}
+\large{\textbf{Polska, Rzeczpospolita Polska}} – państwo unitarne w Europie Środkowej, położone między Morzem Bałtyckim na północy a Sudetami i Karpatami na południu, w przeważającej części w dorzeczu Wisły i Odry. Od północy Polska graniczy z Rosją (z jej obwodem kaliningradzkim) i Litwą, od wschodu z Białorusią i Ukrainą, od południa ze Słowacją i Czechami, od zachodu z Niemcami. Większość północnej granicy Polski wyznacza wybrzeże Morza Bałtyckiego.\cite{wiki}
 
 
 \subsection{Ludność}
+
 \subsubsection{Informacje}
-\subsubsection{Cechy charakterystyczne}
+Polska jest zamieszkana przez 37 672 367 ludzi (2020), zajmuje pod względem liczby ludności \textbf{38.} miejsce \textit{na świecie}, a \textbf{5.} w \textit{Unii Europejskiej.} \\
+Polska podzielona jest na 16 województw. Jej największym miastem i jednocześnie stolicą jest Warszawa. Inne metropolie to Kraków, Łódź, Wrocław, Poznań, Gdańsk, Szczecin.\\ 
+Polska jest krajem jednolitym etnicznie – 97\% ludności deklaruje narodowość polską.\\
 
+\subsubsection{Cytaty o Polakach}
+\textit{\textbf{''Jestem Polakiem – więc całą rozległą stroną swego ducha żyję życiem Polski, jej uczuciami i myślami, jej potrzebami, dążeniami i aspiracjami. Im więcej nim jestem, tym mniej z jej życia jest mi obce i tym silniej chcę, żeby to, co w mym przekonaniu uważam za najwyższy wyraz życia stało się własnością całego narodu. ,,\cite{roman}}}
 
-\section{Rząd}
+\pagebreak
+
+\section{\textbf{\textit{Rząd}}}
 
 \subsection{Partie polityczne}
-
-
+Partie polityczne w sejmie polskim od 2019:\\
+\begin{itemize}
+	\item Prawo i Sprawiedliwość (PiS)
+	\item Koalicja Obywatelska (KO)
+	\item Sojusz Lewicy Demokratycznej (SLD)
+	\item Polskie Stronnictwo Ludowe (PSL)
+	\item Konfederacja Wolność i Niepodległość (Konfederacja)
+	\item Mniejszość Niemiecka
+\end{itemize}
 
 \subsection{Prezydenci}
+
+\begin{table}[h!]
+\caption{Prezydenci III RP (od roku 1989)}
+\centering
+\begin{tabular}{ |l|l|l|  }
+ \hline
+ Lp. &Imię i nazwisko &Okres sprawowania\\
+ \hline
+ 1 &Wojciech Jaruzelski &31.12.1989 - 22.12.1990\\
+ \hline
+ 2 &Lech Wałęsa &22.12.1990 - 22.12.1995\\
+ \hline
+ 3 &Aleksander Kwaśniewski &23.12.1995 - 23.12.2005\\
+  \hline
+ 4 &Lech Kaczyński &23.12.2005 - 10.04.2010\\
+  \hline
+ 5 &Bronisław Komorowski &06.08.2010 - 06.08.2015\\
+  \hline
+ 6 &Andrzej Duda &06.08.2015 - obecnie\\
+  \hline
+\end{tabular}
+\end{table}
 
 \begin{figure}[h!]
 \begin{center}
  \includegraphics{andrzej}
 \end{center}
-  \caption{Zdjęcie obecnego prezydenta Polski - Andrzeja Dudy}
+  \caption{Zdjęcie obecnego prezydenta Polski - Andrzeja Dudy\\Źródło: \cite{zrodlo}}
 \end{figure}
-\bibliography{Biblio}
+
+{\footnotesize{\bibliography{Biblio}}}
+
 \end{document}
